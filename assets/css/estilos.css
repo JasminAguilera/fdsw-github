@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/experienciaculinaria.png");
+  background-image: url("../img/expculinaria.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -39,4 +39,8 @@ body {
 
 .img-fluid{
   width: 60px;
+}
+
+.my-1{
+  color: rgb(255, 255, 255);
 }
